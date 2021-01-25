@@ -1,8 +1,6 @@
 # Hackers News App in ReactJS
 
-Personal project.
-
-## Learn More
+## Personal project.
 
  * No complicated congiguration.
  * Lightweight code
